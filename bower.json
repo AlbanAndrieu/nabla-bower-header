@@ -1,10 +1,10 @@
 {
   "name": "nabla-styles",
   "description": "Boostrap nabla styles overrided",
-  "version": "1.0.1-build.181",
+  "version": "1.0.1-build.183",
   "author": "Nabla Core Team <dev@home.nabla.mobi>",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "main": [
     "app/styles/less/nabla-bootstrap.less",
     "app/styles/less/nabla-theme.less",
