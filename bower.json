@@ -1,18 +1,14 @@
 {
   "name": "nabla-styles",
   "description": "Boostrap nabla styles overrided",
-  "version": "1.0.1-build.277",
+  "version": "1.0.1-build.289",
   "author": "Nabla Core Team <dev@home.nabla.mobi>",
   "license": "MIT",
   "private": false,
   "main": [
-    "app/styles/less/nabla-bootstrap.less",
-    "app/styles/less/nabla-theme.less",
-    "app/styles/less/nabla-mixins.less",
-    "app/styles/less/nabla-variables.less",
-    "app/styles/sass/nabla-bootstrap.scss",
-    "app/styles/sass/nabla-theme.scss",
-    "app/styles/sass/nabla-variables.scss",
+    "app/styles/nabla-bootstrap.scss",
+    "app/styles/_nabla-theme.scss",
+    "app/styles/_nabla-variables.scss",
     "app/views/styles.html"
   ],
   "keywords": [
@@ -22,19 +18,23 @@
     "sass"
   ],
   "dependencies": {
-    "angular": "^1.3.0",
-    "bootstrap": "3.3.4",
+    "angular": "1.3.8",
+    "font-awesome": "~4.4.0",
     "bootstrap-sass-official": "3.3.5",
-    "angular-animate": "^1.3.0",
-    "angular-cookies": "^1.3.0",
-    "angular-resource": "^1.3.0",
-    "angular-route": "^1.3.0",
-    "angular-sanitize": "^1.3.0",
-    "angular-touch": "^1.3.0",
-    "components-font-awesome": "^4.3.0",
+    "angular-animate": "1.3.8",
+    "angular-cookies": "1.3.8",
+    "angular-resource": "1.3.8",
+    "angular-route": "1.3.8",
+    "angular-sanitize": "1.3.8",
+    "angular-touch": "1.3.8",
+    "angular-audio": "~1.2.1",
     "angular-nicescroll": "~0.0.5"
   },
   "devDependencies": {
-    "angular-mocks": "^1.3.0"
+    "angular-mocks": "1.3.8"
+  },
+  "resolutions": {
+    "angular": "1.3.8",
+    "angular-audio": "1.2.1"
   }
 }
