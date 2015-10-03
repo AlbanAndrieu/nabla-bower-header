@@ -1,15 +1,13 @@
 {
   "name": "nabla-styles",
   "description": "Boostrap nabla styles overrided",
-  "version": "1.0.1-build.328",
+  "version": "1.0.1-build.329",
   "author": "Nabla Core Team <dev@home.nabla.mobi>",
   "license": "MIT",
   "private": false,
   "main": [
     "app/images/*",
     "app/styles/nabla-bootstrap.scss",
-    "app/styles/_nabla-theme.scss",
-    "app/styles/_nabla-variables.scss",
     "app/views/styles.html"
   ],
   "keywords": [
