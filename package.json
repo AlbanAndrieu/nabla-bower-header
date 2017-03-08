@@ -3,7 +3,7 @@
   "description": "Boostrap nabla styles overrided",
   "branchVersion": "^1.0.2",
   "branchPattern": "1.0.2",
-  "version": "1.0.1-build.419",
+  "version": "1.0.1-build.437",
   "keywords": [
     "nabla",
     "bootstrap",
@@ -16,6 +16,7 @@
     "email": "alban.andrieu@nabla.mobi",
     "url": "http://home.nabla.mobi"
   },
+  "license": "MIT",
   "licenses": [
     {
       "type": "MIT",
