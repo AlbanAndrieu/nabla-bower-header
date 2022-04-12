@@ -58,7 +58,7 @@
   "main": "app/views/styles.html",
   "devDependencies": {
     "apache-server-configs": "3.2.1",
-    "async": "3.2.0",
+    "async": "3.2.2",
     "autoprefixer": "9.7.6",
     "bower": "1.8.8",
     "codeclimate-test-reporter": "0.5.1",
